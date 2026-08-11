@@ -1,7 +1,7 @@
 # Data Science
 This is a Data Science Repository
 This Repository contain following topics
-``blash
+``bash
 1. Data Science Libraries in Python.ipynb
 2. FIFA Last Checkpoint.ipynb
 3. Financial Analytics.ipynb
@@ -13,7 +13,7 @@ This Repository contain following topics
 
 ``
 This Project also uses all Python libraries such as
-``blash
+``bash
 - Numpy
 - pandas
 - Matplotlib
